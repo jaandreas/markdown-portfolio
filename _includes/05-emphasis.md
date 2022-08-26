@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I _*love*_ fruit. I know many facts about fruits. 
+**Did You Know** 
+That a cucumber is related to a melon?
+That bananas are berries?
+That ripe jackfruit is _delicious_? 
+So many fruit facts.
