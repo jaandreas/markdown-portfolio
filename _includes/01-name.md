@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# J. Andreas Technical Writing Portfolio
+## Bridging the gap bewtween developer and customer
